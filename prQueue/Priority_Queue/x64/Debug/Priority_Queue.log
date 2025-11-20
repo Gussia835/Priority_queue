@@ -1,0 +1,19 @@
+﻿  Priority_Queue.cpp
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(60,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(58,10): message : во время компиляции функции-члена класс шаблон "void Queue_BinHeap<std::string,LengthComparator>::push(const T &)"
+          with
+          [
+              T=std::string
+          ]
+F:\prQueue\Priority_Queue\Priority_Queue.cpp(143,23): message : см. первую ссылку на "Queue_BinHeap<std::string,LengthComparator>::push" в "readFromFile"
+F:\prQueue\Priority_Queue\Priority_Queue.cpp(136,8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Queue_BinHeap<std::string,LengthComparator>"
+F:\prQueue\Priority_Queue\Priority_Queue.cpp(192,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "void readFromFile<Queue_BinHeap<std::string,LengthComparator>>(std::string &)"
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(22,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(21,10): message : во время компиляции функции-члена класс шаблон "void Queue_BinHeap<std::string,LengthComparator>::DownHeapify(int)"
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(71,20): message : см. первую ссылку на "Queue_BinHeap<std::string,LengthComparator>::DownHeapify" в "Queue_BinHeap<std::string,LengthComparator>::pop"
+F:\prQueue\Priority_Queue\Priority_Queue.cpp(146,26): message : см. первую ссылку на "Queue_BinHeap<std::string,LengthComparator>::pop" в "readFromFile"
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(40,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(39,10): message : во время компиляции функции-члена класс шаблон "void Queue_BinHeap<int,std::less<int>>::Heapify(void)"
+F:\prQueue\Priority_Queue\Queue_BinHeap.h(84,16): message : см. первую ссылку на "Queue_BinHeap<int,std::less<int>>::Heapify" в "Queue_BinHeap<int,std::less<int>>::Merge_PriorityQueue"
+F:\prQueue\Priority_Queue\Priority_Queue.cpp(50,17): message : см. первую ссылку на "Queue_BinHeap<int,std::less<int>>::Merge_PriorityQueue" в "test_custom_queue"
+  Priority_Queue.vcxproj -> F:\prQueue\x64\Debug\Priority_Queue.exe

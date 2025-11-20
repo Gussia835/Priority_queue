@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\priority_queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|solutionrelative:Priority_Queue\\priority_queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\LengthComparator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|solutionrelative:Priority_Queue\\LengthComparator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\Queue_BinHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|solutionrelative:Priority_Queue\\Queue_BinHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\Priority_Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{466AA276-03DE-464E-8FE3-5EB9AF93AD9C}|Priority_Queue\\Priority_Queue.vcxproj|solutionrelative:Priority_Queue\\Priority_Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LengthComparator.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\LengthComparator.h",
+              "RelativeDocumentMoniker": "Priority_Queue\\LengthComparator.h",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\LengthComparator.h",
+              "RelativeToolTip": "Priority_Queue\\LengthComparator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T14:04:09.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "priority_queue.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\priority_queue.h",
+              "RelativeDocumentMoniker": "Priority_Queue\\priority_queue.h",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\priority_queue.h",
+              "RelativeToolTip": "Priority_Queue\\priority_queue.h",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T14:00:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue_BinHeap.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\Queue_BinHeap.h",
+              "RelativeDocumentMoniker": "Priority_Queue\\Queue_BinHeap.h",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\Queue_BinHeap.h",
+              "RelativeToolTip": "Priority_Queue\\Queue_BinHeap.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T13:58:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Priority_Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\Priority_Queue.cpp",
+              "RelativeDocumentMoniker": "Priority_Queue\\Priority_Queue.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\\u0410\u0421\u0414\\prQueue\\Priority_Queue\\Priority_Queue.cpp",
+              "RelativeToolTip": "Priority_Queue\\Priority_Queue.cpp",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAKoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T12:11:22.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
